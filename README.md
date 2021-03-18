@@ -13,7 +13,7 @@ Car Pooling is an online application to be built as a product that enables the c
 
 **Functional Requirements:**
 
-- -	A system for an Admin who can enter the employee details like name, contact number, vehicle details etc
+- A system for an Admin who can enter the employee details like name, contact number, vehicle details etc
 -	Corporate employees can register the details to the website.
 -	The facility to check whether the vehicle and driver is authorized or not 
 -	Admin can view the report of the car pooling process to improve the system
