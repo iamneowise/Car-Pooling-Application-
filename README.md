@@ -74,7 +74,7 @@ While the above ones are the basic functional features expected, the below ones 
 
 |               | Technology Stack                                                                 |                          |   |   |
 |---------------|----------------------------------------------------------------------------------|--------------------------|---|---|
-| Frontend      | React 16+                                                                        | Bootstrap or Bulma       |   |   |
+| Frontend      | Angular 7+                                                                        | Bootstrap or Bulma or Google material Design |   |   |
 | Server Side   | Spring BootSpring Web (Rest Controller)Spring SecuritySpring AOPSpring Hibernate |                          |   |   |
 | Core Platform | OpenJDK 11                                                                       |                          |   |   |
 | Database      | MySQL or H2                                                                      |                          |   |   |
