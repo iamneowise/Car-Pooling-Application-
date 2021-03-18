@@ -155,7 +155,7 @@ Signup: Design a signup page component where the new customer has options to sig
   2. API endpoint Url: [http://localhost:4200/signup](http://localhost:4200/signup)
   3. Output screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4mo8qjJAmXEbrPD7XDdYLshRCLMmgqzBIy7B2LZD3bWtkmqAJNfZ7OCtyOtxzlN7COcv3u74NUvwCceX8PXu8KiYS6Gelz5qyY0QLeNtQhS3HOvAy9ypbpZ0nAXGRC8SR9IsC14zzyknimaecy3vUIf0ZtMMb9e3OG2bcsmJ6sGpl2q8-TVAZ4VRzAGGHtUCdB?width=1483&height=1024&cropmode=none)
+![]()
 
 ```
 Login: Design a login page component where the existing customer can log in using the registered email id and password.
@@ -165,7 +165,7 @@ Login: Design a login page component where the existing customer can log in usin
   2. API endpoint Url: [http://localhost:4200/login](http://localhost:4200/login)
   3. Output screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4m97q5iBktyEXc3dNhediD9QconKcfwHnWKvFFD-pYuUhHtvFGM_p26q9hSIAtSyCkghNYmJEUrUYwQGfH2y-hbFwwP9_GlVJk0tUi4twyZF3_NDDw3unsIDLv3pDviI2LtKW-DXJUA-S_Klc1Aaz3bGbLyeraITJcCW81DMJefyhPBfNrtoZR5gqXYgtpxylD?width=1440&height=1024&cropmode=none)
+![]()
 
 ```
 Dashboard / Home: Design a home page component that has the navigation bar and lists all the available products as grid elements with appropriate filter options.
@@ -176,7 +176,7 @@ Dashboard / Home: Design a home page component that has the navigation bar and l
   2. API endpoint Url: [http://localhost:4200/](http://localhost:4200/login)home
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4m-NowdEPP-TKvifaKWnFAm0ca2T9eKpSaEF6g2J5thI3hOX_ood8IDhQGKWFLDkJvalvOPksB9SaebL_lvEEmUJjSr05OxFoAWloeECBi7R2z-RleT2FqIK9ZkWPVVTtg_9MQ45kyFieWJ_KeNdsZqw33xKrEleRopSDsAF-s-1doOSgjewoF0ZqjQt_TXVHD?width=1440&height=1024&cropmode=none)
+![]()
 
 ```
 Cart and Orders: Design a cart component and order component where we can see the cart items and see the items ordered after placing an order.
@@ -187,7 +187,7 @@ Cart and Orders: Design a cart component and order component where we can see th
   3. API endpoint Url: [http://localhost:4200/orders](http://localhost:4200/orders)
   4. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mtokE9aeMLgL_X03F3pCrwXDJlRWuSmsRkv7-MmiPbo2ipdUtKeciqXYE2V3GNBj5ptQKHVuocm54UukqEVzztu4FHjNMZMCQWSR69drJau19WKzG5z41-7kLBiGzeKLEWBzZQdFrqLzgIbAr1nBRenPWYcr5TXxpcnyLu-_T-d49DLuhUjap_VpHV6rsVejh?width=1440&height=1024&cropmode=none)
+![]()
 
 **Admin:**
 
@@ -199,7 +199,7 @@ Admin Dashboard: Design a dashboard page where the list of products is displayed
   2. API endpoint Url: [http://localhost:4200/admin](http://localhost:4200/admin)
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4md5PTyC9iVTMWaqIoTZb5CwuLVW2JJFWFwODs24C6qUrudiHhnvo3qIRSdTmirEh-B9706WnpIhnV2F4ZwCHpjxILaOIaWhT39rbKnHC090NfKbUSElMFnPVpxRumdDrUV5VW0EAWzLeQW6XFu5VPEfOh8vZEuhAd7wfTcp39umCT3UIEGorB94qq_Sm1ieu8?width=1440&height=1024&cropmode=none)
+![]()
 
 ```
 Admin Navigation: Design a navigation component that can navigate to products and orders.
@@ -209,7 +209,7 @@ Admin Navigation: Design a navigation component that can navigate to products an
     3. logoutButton
   2. Screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4mtGZ-e3vN1PeMGtGqbWtsu2wVDnDkWpao7p_KfcfvCnxK0rD-PJC-Sl0Yy4-mtXEFfMiLxwEbLn-2M3JbjT9WrsNtrKBgVxpQsbsukka4ITqaHlrAwTYPI3K67pZePCTXUPXDlimV4RIaDhiDZW93zACcFbLrj79QSWTiD2WiSCUNeGD6-IqO1R13oXI1Xc4w?width=1424&height=495&cropmode=none)
+![]()
 
 ```
 Add Product: Design an add product component in which the admin can add new products to the inventory.
@@ -224,7 +224,7 @@ Add Product: Design an add product component in which the admin can add new prod
   2. API endpoint Url: [http://localhost:4200/ad](http://localhost:4200/ad)dProduct
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mWhv2Chl-OO053r-tB5mQgl1lMQ5ybM53P2ndlmvidpaguzAefW8TsKH5HGwE7MnoO3mxd04lvaVhcXSuF8zqmOYsyJ42RqrGFiYYATPji1qCIJiJKRdsAmZyykjijMDpRNhvLVGLeniyxLzmzBZqwpo7DDZeg5F4orm3DMGcp3zotlbXIMz_y-kyEtOCoeAY?width=1440&height=1024&cropmode=none)
+![]()
 
 ```
 View Orders: Create a view component where the admin can look into the new and old orders.
@@ -233,7 +233,7 @@ View Orders: Create a view component where the admin can look into the new and o
   2. API endpoint Url: [http://localhost:4200/admin](http://localhost:4200/admin)/orders
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mfiWkNlXt1Gzs43RrVCRIeN7zGwV2M20NbOzrMAWF0SGNcu7htvQBdCyNFkoRwID7XR4TXVxZop04Sg9qc723q0TD5wA6f2vZQqipIUVz8ozT7jbt5cdcMbHUHDXH15p7A-sUuxXr-myZ-DzKxMaGZS94eCMXwJPXHxv0iNfaXA5q3XME_P8pmSpD92DWlu_Q?width=1440&height=1024&cropmode=none)
+![]()
 
 ## Backend
 
